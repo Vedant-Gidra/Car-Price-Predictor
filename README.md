@@ -39,7 +39,7 @@ Link for data: https://github.com/Vedant-Gidra/car_price_predictor/blob/master/q
 2. The data was cleaned and analysed.
 Link for cleaned data: https://github.com/Vedant-Gidra/car_price_predictor/blob/master/Cleaned_Car_data.csv
 
-3. Then a Linear Regression model was built on top of it which had 0.92 R2_score.
+3. Then a Linear Regression model was built on top of it which had 0.89 R2_score.
 
 Link for notebook: https://github.com/Vedant-Gidra/car_price_predictor/blob/master/Quikr%20Analysis.ipynb
 
